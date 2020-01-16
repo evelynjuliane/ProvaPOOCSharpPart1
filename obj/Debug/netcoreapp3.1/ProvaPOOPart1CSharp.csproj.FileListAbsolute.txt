@@ -1,0 +1,11 @@
+C:\Users\EJDH\source\repos\ProvaPOOPart1CSharp\ProvaPOOPart1CSharp\bin\Debug\netcoreapp3.1\ProvaPOOPart1CSharp.exe
+C:\Users\EJDH\source\repos\ProvaPOOPart1CSharp\ProvaPOOPart1CSharp\bin\Debug\netcoreapp3.1\ProvaPOOPart1CSharp.deps.json
+C:\Users\EJDH\source\repos\ProvaPOOPart1CSharp\ProvaPOOPart1CSharp\bin\Debug\netcoreapp3.1\ProvaPOOPart1CSharp.runtimeconfig.json
+C:\Users\EJDH\source\repos\ProvaPOOPart1CSharp\ProvaPOOPart1CSharp\bin\Debug\netcoreapp3.1\ProvaPOOPart1CSharp.runtimeconfig.dev.json
+C:\Users\EJDH\source\repos\ProvaPOOPart1CSharp\ProvaPOOPart1CSharp\bin\Debug\netcoreapp3.1\ProvaPOOPart1CSharp.dll
+C:\Users\EJDH\source\repos\ProvaPOOPart1CSharp\ProvaPOOPart1CSharp\bin\Debug\netcoreapp3.1\ProvaPOOPart1CSharp.pdb
+C:\Users\EJDH\source\repos\ProvaPOOPart1CSharp\ProvaPOOPart1CSharp\obj\Debug\netcoreapp3.1\ProvaPOOPart1CSharp.csprojAssemblyReference.cache
+C:\Users\EJDH\source\repos\ProvaPOOPart1CSharp\ProvaPOOPart1CSharp\obj\Debug\netcoreapp3.1\ProvaPOOPart1CSharp.AssemblyInfoInputs.cache
+C:\Users\EJDH\source\repos\ProvaPOOPart1CSharp\ProvaPOOPart1CSharp\obj\Debug\netcoreapp3.1\ProvaPOOPart1CSharp.AssemblyInfo.cs
+C:\Users\EJDH\source\repos\ProvaPOOPart1CSharp\ProvaPOOPart1CSharp\obj\Debug\netcoreapp3.1\ProvaPOOPart1CSharp.dll
+C:\Users\EJDH\source\repos\ProvaPOOPart1CSharp\ProvaPOOPart1CSharp\obj\Debug\netcoreapp3.1\ProvaPOOPart1CSharp.pdb
